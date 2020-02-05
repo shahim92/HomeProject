@@ -18,6 +18,7 @@ public class Net_profit {
 		int netprofit = profit - 2000;
 		System.out.println("This is the income of company in "+ months +"= " + profit);
 		System.out.println("This is the net profit of the company : "  +netprofit);
+		System.out.println("TZHis is for check");
 		
 		
 		
