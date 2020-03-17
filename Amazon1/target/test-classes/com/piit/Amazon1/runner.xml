@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Functional1">
+<test name="amazon">
+<classes>
+<class name="com.piit.Amazon1.NewTest"></class>
+</classes>
+</test>
+</suite>
