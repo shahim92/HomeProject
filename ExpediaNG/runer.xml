@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"> 
+<suite name="Functional1">
+<test name="Expedia1">
+<classes>
+<class name="ExpediaNG.expNG"></class>
+</classes>
+</test>
+</suite>
